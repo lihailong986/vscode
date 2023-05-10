@@ -1,0 +1,5 @@
+2023-5-9 17:28:37 at checkGenerate [C:\snapshot\napi_generator\src\gen\cmd_gen.js(95:13)] [INF] check file []
+2023-5-9 17:28:40 at returnGenerate [C:\snapshot\napi_generator\src\gen\generate\return_generate.js(457:17)] [INF] The current void type don't need generate
+2023-5-9 17:28:40 at returnGenerate [C:\snapshot\napi_generator\src\gen\generate\return_generate.js(457:17)] [INF] The current void type don't need generate
+2023-5-9 17:28:40 at formatCode [C:\snapshot\napi_generator\src\gen\generate.js(158:17)] [INF] Warning: clang-format does not exist, can not format cpp file.
+2023-5-9 17:28:40 at Object.<anonymous> [C:\snapshot\napi_generator\src\gen\cmd_gen.js(122:13)] [INF] success
